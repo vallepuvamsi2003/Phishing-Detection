@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # PhishGuard AI - Real-Time Phishing Detection System
 
